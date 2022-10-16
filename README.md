@@ -12,6 +12,6 @@
 
 <h2>Usage</h2>
 1. Admin's page for editing data <br>
-<code>http://0.0.0.0:8000/admin</code>
+<code>http://0.0.0.0:8000/admin</code> <br>
 2. Food items marked as publish grouped by categories <br>
 <code>http://0.0.0.0:8000/api/v1/food</code>
